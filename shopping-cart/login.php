@@ -24,6 +24,7 @@
 
     <!-- Custom styles for this template-->
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
 </head>
 
@@ -74,9 +75,9 @@
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
                         <div class="row">
-                            <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
-                            <div class="col-lg-6">
-                                <div class="p-5">
+                            <div class="col-lg-6 d-none d-lg-block bg-login1-image mr-5"><img src="https://i.pinimg.com/564x/a3/a9/2f/a3a92fba6220e5930e9a04da64287974.jpg" alt="tzuyu"></div>
+                            <div class="col-lg-5">
+                                <div class="p-5 ml-5 my-5">
                                     <div class="text-center">
                                         <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                     </div>

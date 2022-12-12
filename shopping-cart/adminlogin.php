@@ -71,9 +71,9 @@
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
                         <div class="row">
-                            <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
-                            <div class="col-lg-6">
-                                <div class="p-5">
+                            <div class="col-lg-6 d-none d-lg-block"><img src="https://i.pinimg.com/564x/33/e7/2d/33e72d465ab11c836d73e650e0afd414.jpg" alt="tzuyu"></div>
+                            <div class="col-lg-6 pl-5 pt-5">
+                                <div class="p-5 ml-5 my-5">
                                     <div class="text-center">
                                         <h1 class="h4 text-gray-900 mb-4">Welcome Back Admin!</h1>
                                     </div>

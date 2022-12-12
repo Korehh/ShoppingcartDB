@@ -84,10 +84,10 @@ if (isset($_POST['CrtAccount'])) {
             <div class="card-body p-0">
                 <!-- Nested Row within Card Body -->
                 <div class="row">
-                    <div class="col-lg-5 d-none d-lg-block bg-register-image"></div>
-                    <div class="col-lg-7">
-                        <div class="p-5">
-                            <div class="text-center">
+                    <div class="col-lg-5 d-noned-lg-block bg-register1-image"><img src="https://i.pinimg.com/564x/ca/67/f2/ca67f2a7934baec69a9e79382b481bab.jpg" alt="tzuyu"></div>
+                    <div class="col-lg-7 pl-5">
+                        <div class="pl-5 p-0 ml-5 my-5 mr-5">
+                            <div class="text-center my-5">
                                 <h1 class="h4 text-gray-900 mb-4">Create an Account!</h1>
                             </div>
                             <form class="user" method="post">
